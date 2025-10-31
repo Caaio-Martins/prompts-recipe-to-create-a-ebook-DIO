@@ -1,8 +1,4 @@
 <p align="center">
-    <img width="120" src=".github/assets/banner.png" alt="Banner do projeto">
-</p>
-
-<p align="center">
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-Framework-black?logo=nextdotjs&logoColor=white" alt="Next.js"></a>
 <a href="https://gamma.app/"><img src="https://img.shields.io/badge/Feito%20com-Gamma.App-8A2BE2?logo=slides&logoColor=white" alt="Gamma.App"></a>
 <a href="https://leonardo.ai/"><img src="https://img.shields.io/badge/Imagens-Leonardo.Ai-blueviolet?logo=artstation&logoColor=white" alt="Leonardo.Ai"></a>
@@ -13,7 +9,7 @@
 
 <p align="center">
 <img 
-    src="./assets/Lucid_Origin_Iron_Man_inspired_hero_wearing_futuristic_armor_w_3"
+    src="./assets/Lucid_Origin_Iron_Man_inspired_hero_wearing_futuristic_armor_w_3.jpg"
     width="400"  
     alt="Capa do Ebook"
 />
