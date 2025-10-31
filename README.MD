@@ -13,7 +13,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Lucid_Origin_Iron_Man_inspired_hero_wearing_futuristic_armor_w_3"
     width="400"  
     alt="Capa do Ebook"
 />
@@ -25,7 +25,7 @@
 > Descubra como o **Next.js** pode transformar o desenvolvimento front-end com rotas automáticas, renderização híbrida e deploy instantâneo.  
 > Gerado com o auxílio de **ChatGPT**, ilustrado no **Leonardo.Ai** e diagramado no **Gamma.App**.
 
-📕 **[Clique aqui para ler o ebook completo (PDF)](./output/ebook%20-%20Frameworks-para-Herois-do-Front-End.pdf)**
+📕 **[Clique aqui para ler o ebook completo (PDF)](https://github.com/Caaio-Martins/prompts-recipe-to-create-a-ebook-DIO/blob/main/output/ebook-Frameworks-para-Herois-do-Front-End.pdf)**
 
 ---
 
@@ -82,14 +82,13 @@
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/00000000?v=4"
+      src="https://avatars.githubusercontent.com/u/113067278?v=4"
       alt="Avatar de Caio Martins"
     />
     <p>&nbsp;&nbsp;&nbsp;<strong>Caio Martins</strong><br>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Caaio-Martins">GitHub</a> &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/dev-caio-martins/">LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/caio.martins/">Instagram</a>
     </p>
 </p>
 
